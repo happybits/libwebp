@@ -13,6 +13,10 @@ WebP codec: library to encode and decode images in WebP format. This package
 contains the library that can be used in other programs to add WebP support,
 as well as the command line tools 'cwebp' and 'dwebp'.
 
+(Joya note: We have build scripts over at
+https://github.com/happybits/hbmx-prebuilt for this and other dependencies.
+Check them out for convenience and instructions that may be more up-to-date.)
+
 See http://developers.google.com/speed/webp
 
 The latest source tree is available at
